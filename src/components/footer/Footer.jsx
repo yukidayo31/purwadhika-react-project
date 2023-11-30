@@ -36,13 +36,25 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.youtube.com/channel/UCTD_lnQKJSkjj8HgXfrUPZg">
+        <a
+          href="https://www.youtube.com/channel/UCTD_lnQKJSkjj8HgXfrUPZg"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaYoutube />
         </a>
-        <a href="https://www.youthttps://www.linkedin.com/in/siti-fz-b098231aa/">
+        <a
+          href="thttps://www.linkedin.com/in/siti-fz-b098231aa/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaLinkedin />
         </a>
-        <a href="https://github.com/yukidayo31">
+        <a
+          href="https://github.com/yukidayo31"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaGithub />
         </a>
       </div>
