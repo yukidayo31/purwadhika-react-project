@@ -44,7 +44,7 @@ const Footer = () => {
           <FaYoutube />
         </a>
         <a
-          href="thttps://www.linkedin.com/in/siti-fz-b098231aa/"
+          href="https://www.linkedin.com/in/siti-fz-b098231aa/"
           target="_blank"
           rel="noreferrer"
         >
