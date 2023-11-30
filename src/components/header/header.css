@@ -1,13 +1,15 @@
 header {
-  height: 100vh;
+  height: 22rem;
   padding-top: 7rem;
   overflow: hidden;
+  /* border: 2px solid red; */
 }
 
 .header__container {
   text-align: center;
-  height: 100%;
+  height: 50%;
   position: relative;
+  /* border: 1px solid goldenrod; */
 }
 
 /* ==================== CTA ==================== */
@@ -37,7 +39,8 @@ header {
 }
 
 /* ==================== ME ==================== */
-.me {
+
+/* .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
@@ -47,7 +50,8 @@ header {
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
-}
+  border: 2px solid yellow;
+} */
 
 /* ==================== SCROLL DOWN ==================== */
 .scroll__down {
@@ -62,14 +66,14 @@ header {
 /* ==================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 22rem;
   }
 }
 
 /* ==================== MEDIA QUERIES (SMALL DEVICES) ==================== */
 @media screen and (max-width: 600px) {
   header {
-    height: 100vh;
+    height: 25rem;
   }
   .header__socials,
   .scroll__down {
