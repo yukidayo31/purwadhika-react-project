@@ -54,7 +54,7 @@ const data = [
 
 const Portfolio = () => {
   return (
-    <div>
+    <section>
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
 
@@ -88,7 +88,7 @@ const Portfolio = () => {
           );
         })}
       </div>
-    </div>
+    </section>
   );
 };
 
