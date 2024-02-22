@@ -55,7 +55,7 @@ const Contact = () => {
               Send a message
             </a>
           </article>
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <RiWhatsappFill className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>Siti FZ</h5>
@@ -66,7 +66,7 @@ const Contact = () => {
             >
               Send a message
             </a>
-          </article>
+          </article> */}
         </div>
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onSubmit={sendEmail}>

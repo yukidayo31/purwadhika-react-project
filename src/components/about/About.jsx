@@ -26,23 +26,26 @@ const About = () => {
               <small>2+ Years Working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <LuUsers2 className="about__icon" />
               <h5>Clients</h5>
               <small>100+ Worldwide</small>
-            </article>
+            </article> */}
 
             <article className="about__card">
               <MdOutlineFolderCopy className="about__icon" />
               <h5>Projects</h5>
-              <small>30+ Completed</small>
+              <small>3 Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga
-            reprehenderit quo, placeat sunt aliquid natus voluptas nobis
-            molestiae a deserunt impedit, iure cum totam earum, necessitatibus
-            repellat reiciendis maxime inventore?
+            A GIS enthusiast, IPB graduate with a major of Land Resources
+            Management who’s passionate and versatile with more than 3 years of
+            experience in Remote Sensing and GIS Analysis and 2.5 years of
+            related work experience. I’m currently into web development
+            programming using JavaScript by learning and doing (building
+            full-stack projects) and hopefully can implement it into my
+            expertise as well.
           </p>
 
           <a href="#contact" className="btn btn-primary">
